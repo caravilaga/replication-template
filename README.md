@@ -1,5 +1,6 @@
-# Replication template
+# Carlos' awesome project
 
+I've changed some things here
 This is a template you can use for your final projects (as well other projects where you need to post replication code.) Fill in each section with information on your own project.
 
 ## Short Description
